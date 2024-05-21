@@ -1,0 +1,6 @@
+@ss03_HostAddress = http://localhost:5216
+
+GET {{ss03_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
